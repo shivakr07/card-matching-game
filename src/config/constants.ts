@@ -1,0 +1,6 @@
+// Constants
+const INITIAL_TIMER = 60
+const INITIAL_SCORE = 0
+const SUCCESS_SCORE = 1
+
+export { INITIAL_TIMER, INITIAL_SCORE, SUCCESS_SCORE }
