@@ -3,7 +3,7 @@ import './style.css'
 
 interface GameInfoProps {
   moves: number
-  score: string | number
+  score:  number 
   win: boolean
   handleResetGame: () => void
 }
